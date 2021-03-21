@@ -34,7 +34,7 @@ Once you have the tube you need to:
   3. Slice the tube down one side
   4. Soak the cut tube in the cup of hot water to make it malleable
   5. (optional) push the hot pex cutting over the back end of a sharpie marker
-   to expand it, it makes it easier to form it over the lobe.
+   to expand it to 1/2", it makes it easier to form it over the lobe.
     
   ![lobe](images/lobe.png)
   
