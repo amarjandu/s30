@@ -43,3 +43,5 @@ Once you have the tube you need to:
    together by the tube wanting to form back to the cylinder.
 
 Once this is complete you should be able to close the door with ease.
+
+![close-up](images/closeup.jpg)
