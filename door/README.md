@@ -44,4 +44,7 @@ Once you have the tube you need to:
 
 Once this is complete you should be able to close the door with ease.
 
+
+![expand](images/expand.jpg)
+
 ![close-up](images/closeup.jpg)
