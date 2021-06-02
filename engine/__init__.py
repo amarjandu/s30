@@ -29,6 +29,6 @@ class Calculations:
         :param final_drive_ratio: from the differential
         :param gear_ratio: gear ratio currently selected 
         :return: miles per hour
-        """ 
+        """
 
         return (rpm * tire_circumference) / (final_drive_ratio * gear_ratio * 1056)
